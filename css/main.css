@@ -10,6 +10,7 @@ html {
   html {
     font-size: 9.411764705882353px;
   }
+
 }
 @media only screen and (max-width:768px) {
   html {
@@ -19,6 +20,9 @@ html {
 @media only screen and (max-width:400px) {
   html {
     font-size: 9.411764705882353px;
+  }
+  .icons{
+    width: 80px;
   }
 }
 
@@ -2542,3 +2546,7 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.habil{
+  text-align: center;
+}
