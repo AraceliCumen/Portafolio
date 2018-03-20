@@ -1186,7 +1186,7 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-  background: #000000;
+  background: rgba(0, 0, 0, 0.5);
   padding: 24px 30px 20px;
   margin: 0;
   width: 100%;
