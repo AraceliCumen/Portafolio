@@ -260,10 +260,10 @@ video {
 	max-width: 100%;
 	height: auto;
 }
-
+/* 
 #tel{
 	max-width: 80px;
-}
+} */
 
 /**
  * Typography resets - (_basic.scss)
@@ -364,7 +364,7 @@ textarea {
 	-moz-appearance: none;
 	-ms-appearance: none;
 	-o-appearance: none;
-	/* appearance: none; */
+	appearance: none;
 }
 
 /** 
